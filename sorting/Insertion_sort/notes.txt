@@ -1,0 +1,4 @@
+worst case O(n^2)
+in place and stable
+used in pratice for small arrays(TimSort and Intra sort)
+o(n) best case

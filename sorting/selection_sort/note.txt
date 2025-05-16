@@ -1,0 +1,7 @@
+Does require less memory writer compared to quicksort,merge sort, Insertion sort. but cycle sort is more optimal in term of memory writer.
+memory write is costly operation in situation like EEPROM if we do more memory then the age of memeory decreases.In those cases we prefer selection sort
+not this situation there are many situation like putting in hardisk.
+
+it basic idea for heap sort
+it not stable 
+in place algorithm

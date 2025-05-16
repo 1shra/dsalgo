@@ -1,0 +1,3 @@
+there are many passes in this
+in first pass we move the largest element at last 
+in second pass we move the second largest at last

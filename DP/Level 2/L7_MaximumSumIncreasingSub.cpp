@@ -28,7 +28,7 @@ int main(){
   // vector<int> vec = {10,10,22,9,33,21,50,41,60,60,80,1};
   vector<int> vec = {42};
   for(auto i:vec) cout<<i<<" ";
-  cout<<endl;
+  cout<<endl; 
   cout<<Maxincsub(vec);
 
 }
